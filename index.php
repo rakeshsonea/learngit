@@ -1,5 +1,5 @@
 <?php
 
-echo "this is for the new features";
+echo "new changes done on sunday 21.57";
 
 ?>
