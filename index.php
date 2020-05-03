@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello world, hans is my;
+echo "this is for the new features";
 
 ?>
