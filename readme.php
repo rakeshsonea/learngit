@@ -1,5 +1,5 @@
 <?php
 
-echo "Changes done on friday friday....";
+echo "Changes done on tuesday tuesday ....";
 
 ?>
